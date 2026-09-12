@@ -4,5 +4,6 @@ using namespace std; //?menggunakan namespace std agar tidak perlu menulis std::
 
 int main() {
     cout << "Hai!" << endl;
+    cin.get();
     return 0;
 }
